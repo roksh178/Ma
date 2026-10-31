@@ -1,0 +1,5 @@
+cat > MAFIA <<'PY'
+import MAFIA3
+
+print("MAFIA3 LOADED")
+PY
