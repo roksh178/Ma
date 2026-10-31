@@ -1,5 +1,3 @@
-cat > MAFIA <<'PY'
-import MAFIA3
+import mafia907
 
-print("MAFIA3 LOADED")
-PY
+mafia907.main()
